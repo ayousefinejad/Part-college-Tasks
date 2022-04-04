@@ -1,2 +1,2 @@
 # Part-college-Tasks
-Artificail Inteligence school tasks 2021
+Artificial Intelligence summer school 2021 tasks
